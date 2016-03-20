@@ -1,0 +1,8 @@
+﻿Build started 3/20/2016 9:12:10 PM.
+     1>Project "C:\Users\Krishna\Desktop\Hello_world_c\Hello_world_c\Hello_world_c\Hello_world_c.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Platforms\ARM\PlatformToolsets\v110\Microsoft.Cpp.ARM.v110.targets(36,5): error MSB8022: Compiling Desktop applications for the ARM platform is not supported.
+     1>Done Building Project "C:\Users\Krishna\Desktop\Hello_world_c\Hello_world_c\Hello_world_c\Hello_world_c.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.01
